@@ -23,7 +23,7 @@ The program performs the following steps:
 
 # **Spanish:**
 
-# **Título del Programa:** Escáner de Tipo de Entrada y Método usando dnlib
+# **Escáner de Tipo de Entrada y Método usando dnlib**
 
 ## **Descripción:**
 
