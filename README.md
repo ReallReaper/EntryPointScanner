@@ -21,7 +21,7 @@ The program performs the following steps:
 2. Enter the path to the target .exe file.
 3. The program will display the detected entry type and method.
 
- **Spanish:**
+# **Spanish:**
 
 # **Título del Programa:** Escáner de Tipo de Entrada y Método usando dnlib
 
