@@ -1,6 +1,6 @@
 # **English:**
 
-# **Program Title:** Entry Type and Method Scanner using dnlib
+# **Entry Type and Method Scanner using dnlib**
 
 ## **Description:**
 
